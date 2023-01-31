@@ -9,3 +9,5 @@ Kendi alanıma geri dönmek için çalışıyorum. Bu süreçte yolum Kodluyoruz
 * Kitap okumak.
 * Yürümek.
 * Animasyon dizileri.
+
+[Patika](https://www.patika.dev/tr)
