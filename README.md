@@ -5,8 +5,8 @@ Selamlar, ben Ekrem Yusuf Sancak. İstanbul doğumluyum. 25 yaşındayım. Şu a
 
 Kendi alanıma geri dönmek için çalışıyorum. Bu süreçte yolum Kodluyoruz ve Patika ile kesişti. Kendimi geliştirmeye devam etmek istiyorum. Yabancı dil öğrenmeyi ve üzerinde çalışmayı çok severim.,
 
-Hobilerim
-Yabancı dil öğrenmek.
-Kitap okumak.
-Yürümek.
-Animasyon dizileri.
+## Hobilerim
+* Yabancı dil öğrenmek.
+* Kitap okumak.
+* Yürümek.
+* Animasyon dizileri.
